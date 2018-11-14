@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('../fonts/OpenSans/OpenSans-Bold.eot');
+    src: url('../fonts/OpenSans/OpenSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans/OpenSans-Bold.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-Bold.woff') format('woff'),
+        url('../fonts/OpenSans/OpenSans-Bold.ttf') format('truetype'),
+        url('../fonts/OpenSans/OpenSans-Bold.svg#OpenSans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans/OpenSans-Regular.eot');
+    src: url('../fonts/OpenSans/OpenSans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/OpenSans/OpenSans-Regular.woff2') format('woff2'),
+        url('../fonts/OpenSans/OpenSans-Regular.woff') format('woff'),
+        url('../fonts/OpenSans/OpenSans-Regular.ttf') format('truetype'),
+        url('../fonts/OpenSans/OpenSans-Regular.svg#OpenSans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora';
+    src: url('Lora-Regular.eot');
+    src: url('Lora-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Lora-Regular.woff2') format('woff2'),
+        url('Lora-Regular.woff') format('woff'),
+        url('Lora-Regular.ttf') format('truetype'),
+        url('Lora-Regular.svg#Lora-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Lora Bold';
+    src: url('../fonts/Lora/Lora-Bold.eot');
+    src: url('../fonts/Lora/Lora-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Lora/Lora-Bold.woff2') format('woff2'),
+        url('../fonts/Lora/Lora-Bold.woff') format('woff'),
+        url('../fonts/Lora/Lora-Bold.ttf') format('truetype'),
+        url('../fonts/Lora/Lora-Bold.svg#Lora-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
